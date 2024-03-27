@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>This will be home work Redux</h1>
+        <h1>This will be homework Redux</h1>
         <h2>Play with counter</h2>
         <p className="text">Counter: {counter}</p>
 
