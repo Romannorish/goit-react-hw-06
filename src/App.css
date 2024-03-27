@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.btn {
+  margin-left: 15px;
+}
