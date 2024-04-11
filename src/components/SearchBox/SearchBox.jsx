@@ -1,6 +1,6 @@
-import {changeFilter} from "../../redux/filterSlice"
+import {changeFilter} from "../../redux/filtersSlice"
 import {selectNameFilter} from "../../selectors/selectors"
-import css from "./SearchBar.module.css"
+import css from "./SearchBox.module.css"
 import {useDispatch, useSelector} from "react-redux"
 export default function SearchBar() {
   const dispatch = useDispatch()

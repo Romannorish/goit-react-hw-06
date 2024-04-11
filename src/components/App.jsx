@@ -1,6 +1,6 @@
 import css from "./App.module.css"
 import ContactList from "./ContactList/ContactList"
-import SearchBar from "./SearchBar/SearchBar"
+import SearchBar from "./SearchBox/SearchBox"
 import ContactForm from "./ContactForm/ContactForm"
 
 function App() {
